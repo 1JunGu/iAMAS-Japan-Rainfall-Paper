@@ -1,0 +1,1 @@
+/storage/aemolcore02/jungu/2020_Kyushu/v4-60km_33N132E_785410/sep_vars/ensemble/monthly_avg/rainnc_hr.nc
